@@ -2,7 +2,7 @@ name: gis
 
 channels:
   - conda-forge
-  - defaults
 
 dependencies:
   - geopandas
+  - osmnx
